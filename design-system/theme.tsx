@@ -32,7 +32,7 @@ const color: Colors = {
 
 const space: string[] = ["0", "4px", "8px", "16px", "32px"]
 
-const font = "-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif"
+const font = "Manrope3, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif"
 
 export const theme = {
   color,
