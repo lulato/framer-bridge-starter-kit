@@ -39,7 +39,7 @@ const StyledButton = styled.button`
   background: ${theme.color.paneBg};
   border-radius: 4px;
   border: none;
-  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
   color: ${theme.color.body};
   font-family: ${theme.font};
   font-size: 15px;
