@@ -172,7 +172,7 @@
             "codeComponentProps" : {
               "disabled" : false,
               "fluid" : true,
-              "kind" : "primary",
+              "kind" : "default",
               "text" : "Download App"
             },
             "codeOverrideEnabled" : false,
