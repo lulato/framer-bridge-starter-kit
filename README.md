@@ -1,4 +1,4 @@
-# Framer Bridge Starter Kit
+# Framer Bridge Lulato Kit
 
 Framer Bridge is a suite of tools:
 
