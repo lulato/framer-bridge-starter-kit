@@ -19,5 +19,5 @@ action "Publish" {
   uses = "framer/bridge@master"
   args = ["publish", "design-system.framerfx", "--yes"]
   needs = ["Build", "Publish Filter"]
-  secrets = ["FRAMER_TOKEN"]
+  secrets = ["86f7ccba-5e1a-4d3b-9e37-b37f80849c65"]
 }
