@@ -18,7 +18,7 @@ const color: Colors = {
   paneBg: "#FFF",
   paneBgDark: "#FDFDFD",
   paneBorder: "rgba(0, 0, 0, 0.1)",
-  primary: "green",
+  primary: "#1073FF",
   primaryDark: "#74C",
   primaryLight: "#EEF",
   danger: "red",

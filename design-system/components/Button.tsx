@@ -44,7 +44,7 @@ const StyledButton = styled.button`
   font-family: ${theme.font};
   font-size: 15px;
   font-weight: 600;
-  letter-spacing: -0.2px;
+  letter-spacing: 0.04em;
   line-height: 1.1;
   margin: 0;
   padding: ${theme.space[3]};
