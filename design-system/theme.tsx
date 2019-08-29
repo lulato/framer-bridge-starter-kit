@@ -16,12 +16,12 @@ type Colors = {
 
 const color: Colors = {
   paneBg: "#FFF",
-  paneBgDark: "#FDFDFD",
+  paneBgDark: "#F7F7F7",
   paneBorder: "rgba(0, 0, 0, 0.1)",
   primary: "#1073FF",
   primaryDark: "#74C",
   primaryLight: "#EEF",
-  danger: "red",
+  danger: "#EA0404",
   dangerDark: "#F34",
   dangerLight: "#FDD",
   body: "#222",

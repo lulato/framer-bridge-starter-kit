@@ -180,7 +180,7 @@
               "disabled" : false,
               "fluid" : true,
               "kind" : "primary",
-              "text" : "Action"
+              "text" : "Follow"
             },
             "codeOverrideEnabled" : false,
             "constraintsLocked" : false,

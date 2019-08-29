@@ -47,7 +47,7 @@ const StyledInput = styled.input`
   color: ${theme.color.body};
   font-family: ${theme.font};
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 700;
   margin: 0;
   outline: 0;
   overflow: visible;
@@ -56,12 +56,12 @@ const StyledInput = styled.input`
   width: 100%;
 
   &:focus {
-    box-shadow: inset 0px 1px 2px 0px rgba(0, 0, 0, 0.05),
+    box-shadow: inset 0px 1px 2px 0px rgba(0, 0, 0, 0),
       inset 0px 0px 0px 1px ${theme.color.primary},
       0px 0px 0px 2px ${theme.color.primaryLight};
   }
   &:focus::placeholder {
-    opacity: 0.5;
+    opacity: 0.8;
     transition: opacity 0.2s;
   }
 
