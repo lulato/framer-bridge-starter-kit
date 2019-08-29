@@ -24,7 +24,7 @@ export const Tooltip: React.FC<Props> = ({
 
 // Styling
 const StyledTooltip = styled.span`
-  background: ${theme.color.bodyLight};
+  background: ${theme.color.primaryDark};
   font-size: 11px;
   color: #fff;
   padding: 5px;
