@@ -19,7 +19,7 @@ jobs:
       - name: Publish
         uses: framer/bridge@master
         env:
-          FRAMER_TOKEN: 81758868-d298-44cd-b476-e58a9fb4457c
+          FRAMER_TOKEN: $FRAMER_TOKEN
         with:
           args: publish design-system.framerfx --yes --public
 
